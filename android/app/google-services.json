@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098522008190",
+    "project_id": "fluttercookbook-ff586",
+    "storage_bucket": "fluttercookbook-ff586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098522008190:android:b7de5370b021189f14d62f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098522008190-6bg0qorhnv7prsd75fr2sca0npmmgd3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgxjibRRAsjcLuWWdMyf8TDPUPJfOF6yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098522008190-6bg0qorhnv7prsd75fr2sca0npmmgd3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
